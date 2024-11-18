@@ -1,3 +1,3 @@
 ### Project Demo
 
-[Watch the Demo Video](./src/assets/video.mp4)
+[Watch the Demo Video](./src/assets/)
