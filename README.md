@@ -1,2 +1,3 @@
-![Alt text](./src/assets/video.mp4)
+### Project Demo
 
+[Watch the Demo Video](./src/assets/video.mp4)
